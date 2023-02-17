@@ -1,12 +1,21 @@
 <div align="center">
 <h1>
-    <b>Primeiro Aplicativo feito em Kotlin 🚀</b> 
+    <b>Primeiro Aplicativo feito em Android/Kotlin 🚀</b> 
     </br>
 </h1>
+</div>
 
--  Esse Aplicativo foi realizado seguindo as primeiras aulas do modulo de Desenvolvimento Android em Kotlin. 
+- Aplicativo realizado durante as aulas do Módulo 1 - Fundamentos em Desenvolvimento Mobile Android na XPE. 
 <br> <br>
 
-<img src="" width="300" height="200">
+    - Objetivo do aplicativo foi criar um app que armazene frases com o nome de autores e as suas citaçoes.
+
+<div align="center">
+<h3>Demonstrativo das telas</h3>
+
+<img src="./public/home.png" width="200" height="420">
+<img src="./public/cadastro.png" width="200" height="420">
+<img src="./public/listaCadastro.png" width="200" height="420">
+<img src="./public/listaLimpa.png" width="200" height="420">
     
 </div>
